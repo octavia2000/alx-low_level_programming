@@ -1,7 +1,7 @@
-#include <stdio.h>                                                                                                                  
+#include <stdio.h>
 #include <unistd.h>
+
 /**
- *
  * main - Entry point
  *
  * Return: 0 after printing the function
